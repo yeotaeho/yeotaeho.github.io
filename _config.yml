@@ -59,13 +59,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "dovahkiin"
+  name   : "Dovahkiin"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "FastAPI · LLM · ESG · MSA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dovahkiin.github.io/"
+      url: "yeotaeho.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
